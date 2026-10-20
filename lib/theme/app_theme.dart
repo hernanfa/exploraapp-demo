@@ -71,7 +71,7 @@ class AppTheme {
       appBarTheme: const AppBarTheme(
         backgroundColor: navy,
         foregroundColor: Colors.white,
-        elevation: 5,
+        elevation: 0,
       ),
       cardTheme: CardThemeData(
         elevation: 1,
