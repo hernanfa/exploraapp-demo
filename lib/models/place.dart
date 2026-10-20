@@ -27,7 +27,7 @@ class Place {
 // PlaceCard y ListView.builder antes de conectar una fuente de datos
 // real en la Sesión 6.
 //final List<Place> lugaresEjemplo = [];
-final List<Place> lugaresejemplo = [
+final List<Place> lugaresEjemplo = [
   Place(
     id: '1',
     nombre: 'parque el ejido',
