@@ -69,8 +69,8 @@ class _AddPlaceScreenState extends State<AddPlaceScreen> {
                       nombre: _nombreController.text.trim(),
                       categoria: _categoriaController.text.trim(),
                       descripcion: _descripcionController.text.trim(),
-                      lat: -0.1850,
-                      lng: -78.4840,
+                      lat: -0.1807,
+                      lng: -78.4859,
                     ));
                     Get.back();
                     Get.snackbar('Lugar agregado', 'Ya aparece en Inicio');
